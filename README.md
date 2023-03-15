@@ -1,7 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
-
-DESAFIO MASTERCLASS
+## DESAFIO MASTERCLASS
 
 Construa uma classe que valide um CPF recebendo um valor String por construtor e  um método de validação retornando um booleano.
 
@@ -27,3 +24,4 @@ O Resultado deve ser igual ao primeiro dígito verificador.
 2. Com o resultado em mãos, siga os passos 2, 3 e 4 do cálculo do primeiro dígito.
 
 O Resultado deve ser igual ao segundo dígito verificador.
+
