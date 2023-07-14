@@ -1,3 +1,7 @@
+# Verify CPF
+
+This application made in Dart checks if a given CPF number is valid or not.
+
 ## DESAFIO MASTERCLASS
 
 Construa uma classe que valide um CPF recebendo um valor String por construtor e  um método de validação retornando um booleano.
